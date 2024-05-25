@@ -3,3 +3,4 @@
 # Data Engineering : https://youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE&feature=shared
 # Data Science : https://youtube.com/playlist?list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&feature=shared
 # data-science : https://github.com/ossu/data-science
+# Data Engineering : https://youtube.com/playlist?list=PLrooD4hY1QqADSWBJISGAq_qEPIed550b&feature=shared
